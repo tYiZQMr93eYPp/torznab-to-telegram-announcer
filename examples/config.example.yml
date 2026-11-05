@@ -1,0 +1,55 @@
+# Main configuration.
+#
+# To keep a secret out of this file, write ${NAME} where the value would go and define
+# the environment variable NAME for the announcer (in Docker: `environment:` in compose.yaml).
+# This works for any value, however deeply nested. For example, `headers: {X-Api-Key: ${NAME}}`
+# sends the value of NAME as the X-Api-Key header. There is no automatic mapping from a
+# setting's path to a variable name: you choose NAME.
+#   ${NAME}           the value of NAME; it is an error if NAME is not set
+#   ${NAME:-fallback} the value of NAME, or `fallback` if it is not set
+#
+# Relative paths are resolved against the directory of this file.
+
+database: /data/announcer.sqlite3
+
+# Seconds to wait between two messages (Telegram allows roughly 20 messages per minute per group).
+send_delay: 3
+
+apprise:
+  # Apprise API server (apprise:// or apprises://). Credentials (user:password@host),
+  # a port and a path prefix are supported.
+  url: ${APPRISE_URL}
+
+# Optional. These are the built-in defaults (the Newznab/Torznab standard top-level
+# categories). Overriding this replaces the whole default map.
+# category_map:
+#   Console: [[1000, 1999]]
+#   Movies: [[2000, 2999]]
+#   Audio: [[3000, 3999]]
+#   PC: [[4000, 4999]]
+#   TV: [[5000, 5999]]
+#   XXX: [[6000, 6999]]
+#   Books: [[7000, 7999]]
+#   Other: [[8000, 8999]]
+
+feeds:
+  - name: my-tracker
+    # An in-line API key works as well as headers. Use one or the other.
+    # The query parameters (t, cat, ...) are the tracker's own Torznab filters and are sent
+    # as is; they are unrelated to `category_map` / `categories`, which only name the
+    # categories shown in messages.
+    url: https://tracker.example.com/api?t=search&cat=2000,5000&apikey=${MY_TRACKER_API_KEY}
+    # headers:
+    #   X-Api-Key: ${MY_TRACKER_API_KEY}
+    interval: 10m # seconds, or 30s / 10m / 1h
+    timeout: 30 # request timeout in seconds
+    # The configuration id stored on the Apprise API server (not a local file), and the
+    # tag(s) selecting its URLs. The tag is independent of `name`; it only has to match a
+    # tag in that stored configuration. This notifies
+    # apprises://apprise.example.org/torznab-announcer/?tags=my-tracker
+    apprise_config_id: torznab-announcer
+    tag: my-tracker # one tag, or a list: matches URLs tagged with any of them
+    # Per-feed categories take precedence over the global map and extend it.
+    # Values are ids or [low, high] ranges.
+    categories:
+      Anime: [[5070, 5070]]

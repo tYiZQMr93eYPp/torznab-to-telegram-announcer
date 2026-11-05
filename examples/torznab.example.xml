@@ -1,0 +1,2679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:torznab="http://torznab.com/schemas/2015/feed">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml"/>
+    <title>Prowlarr</title>
+    <item>
+      <title>Naruto S05 2006 NF WEB-DL H.264 DUAL AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18317.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18317</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:44 +0100</pubDate>
+      <size>4819087005</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="78857"/>
+      <torznab:attr name="imdb" value="0409591"/>
+      <torznab:attr name="tmdbid" value="46260"/>
+      <torznab:attr name="seeders" value="0"/>
+      <torznab:attr name="files" value="41"/>
+      <torznab:attr name="grabs" value="0"/>
+      <torznab:attr name="peers" value="2"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg"/>
+    </item>
+    <item>
+      <title>Naruto S04 2005 NF WEB-DL H.264 DUAL AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18316.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18316</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:43 +0100</pubDate>
+      <size>5615542298</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="78857"/>
+      <torznab:attr name="imdb" value="0409591"/>
+      <torznab:attr name="tmdbid" value="46260"/>
+      <torznab:attr name="seeders" value="0"/>
+      <torznab:attr name="files" value="48"/>
+      <torznab:attr name="grabs" value="0"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg"/>
+    </item>
+    <item>
+      <title>Naruto S03 2004 NF WEB-DL H.264 MULTI AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18315.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18315</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:41 +0100</pubDate>
+      <size>6282323311</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="78857"/>
+      <torznab:attr name="imdb" value="0409591"/>
+      <torznab:attr name="tmdbid" value="46260"/>
+      <torznab:attr name="seeders" value="0"/>
+      <torznab:attr name="files" value="48"/>
+      <torznab:attr name="grabs" value="0"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg"/>
+    </item>
+    <item>
+      <title>Naruto S02 2003 NF WEB-DL H.264 MULTI AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18314.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18314</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:40 +0100</pubDate>
+      <size>7088791671</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="78857"/>
+      <torznab:attr name="imdb" value="0409591"/>
+      <torznab:attr name="tmdbid" value="46260"/>
+      <torznab:attr name="seeders" value="0"/>
+      <torznab:attr name="files" value="48"/>
+      <torznab:attr name="grabs" value="0"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg"/>
+    </item>
+    <item>
+      <title>Naruto S01 2002 NF WEB-DL H.264 MULTI AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18313.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18313</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:38 +0100</pubDate>
+      <size>5038126562</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="tag" value="doubleupload"/>
+      <torznab:attr name="genre" value="Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="78857"/>
+      <torznab:attr name="imdb" value="0409591"/>
+      <torznab:attr name="tmdbid" value="46260"/>
+      <torznab:attr name="seeders" value="0"/>
+      <torznab:attr name="files" value="35"/>
+      <torznab:attr name="grabs" value="0"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="2"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg"/>
+    </item>
+    <item>
+      <title>One Tree Hill S09 2012 1080p AMZN WEB-DL H.265 DUAL DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18312.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18312</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:22 +0100</pubDate>
+      <size>16193439566</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="72158"/>
+      <torznab:attr name="imdb" value="0368530"/>
+      <torznab:attr name="tmdbid" value="269"/>
+      <torznab:attr name="seeders" value="0"/>
+      <torznab:attr name="files" value="13"/>
+      <torznab:attr name="grabs" value="0"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/sOrelBaAhp7DZbPTivDwKEyPslC.jpg"/>
+    </item>
+    <item>
+      <title>One Tree Hill S08 2010 1080p AMZN WEB-DL H.265 DUAL DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18311.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18311</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:19 +0100</pubDate>
+      <size>63847203862</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="72158"/>
+      <torznab:attr name="imdb" value="0368530"/>
+      <torznab:attr name="tmdbid" value="269"/>
+      <torznab:attr name="seeders" value="0"/>
+      <torznab:attr name="files" value="22"/>
+      <torznab:attr name="grabs" value="0"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/sOrelBaAhp7DZbPTivDwKEyPslC.jpg"/>
+    </item>
+    <item>
+      <title>One Tree Hill S07 2009 1080p AMZN WEB-DL H.265 DUAL DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18310.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18310</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:18 +0100</pubDate>
+      <size>63962859615</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="72158"/>
+      <torznab:attr name="imdb" value="0368530"/>
+      <torznab:attr name="tmdbid" value="269"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="22"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/sOrelBaAhp7DZbPTivDwKEyPslC.jpg"/>
+    </item>
+    <item>
+      <title>One Tree Hill S06 2008 1080p AMZN WEB-DL H.265 DUAL DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18309.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18309</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:16 +0100</pubDate>
+      <size>70425821171</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="72158"/>
+      <torznab:attr name="imdb" value="0368530"/>
+      <torznab:attr name="tmdbid" value="269"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="24"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/sOrelBaAhp7DZbPTivDwKEyPslC.jpg"/>
+    </item>
+    <item>
+      <title>One Tree Hill S05 2008 1080p AMZN WEB-DL H.265 DUAL DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18308.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18308</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:15 +0100</pubDate>
+      <size>52293987057</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="72158"/>
+      <torznab:attr name="imdb" value="0368530"/>
+      <torznab:attr name="tmdbid" value="269"/>
+      <torznab:attr name="seeders" value="2"/>
+      <torznab:attr name="files" value="18"/>
+      <torznab:attr name="grabs" value="1"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/sOrelBaAhp7DZbPTivDwKEyPslC.jpg"/>
+    </item>
+    <item>
+      <title>One Tree Hill S04 2006 1080p AMZN WEB-DL H.265 DUAL DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18307.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18307</comments>
+      <pubDate>Thu, 05 Nov 2026 11:35:13 +0100</pubDate>
+      <size>60082996784</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="72158"/>
+      <torznab:attr name="imdb" value="0368530"/>
+      <torznab:attr name="tmdbid" value="269"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="21"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/sOrelBaAhp7DZbPTivDwKEyPslC.jpg"/>
+    </item>
+    <item>
+      <title>Palomas Negras 2024 S02 1080p NF WEB-DL H264 ESP DD+ 5.1 ENG DD+ Atmos 5.1 SUBS GROUPB Spanish</title>
+      <description>Internal | Crimen, Misterio, Action &amp; Adventure</description>
+      <guid>https://tracker.example.com/torrent/download/18320.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18320</comments>
+      <pubDate>Thu, 05 Nov 2026 09:35:45 +0100</pubDate>
+      <size>15277303398</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="tag" value="doubleupload"/>
+      <torznab:attr name="genre" value="Crimen, Misterio, Action &amp; Adventure"/>
+      <torznab:attr name="tvdbid" value="441315"/>
+      <torznab:attr name="imdb" value="27995113"/>
+      <torznab:attr name="tmdbid" value="225385"/>
+      <torznab:attr name="seeders" value="43"/>
+      <torznab:attr name="files" value="6"/>
+      <torznab:attr name="grabs" value="42"/>
+      <torznab:attr name="peers" value="43"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="2"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"/>
+    </item>
+    <item>
+      <title>La Mangosta 2026 1080p AMZN WEB-DL H264 DUAL DD+ 5.1 SUBS-GROUPB Spanish</title>
+      <description>Internal | Acción, Suspense</description>
+      <guid>https://tracker.example.com/torrent/download/18319.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18319</comments>
+      <pubDate>Thu, 05 Nov 2026 01:54:14 +0100</pubDate>
+      <size>6934317276</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="tag" value="doubleupload"/>
+      <torznab:attr name="genre" value="Acción, Suspense"/>
+      <torznab:attr name="imdb" value="13611778"/>
+      <torznab:attr name="tmdbid" value="1294189"/>
+      <torznab:attr name="seeders" value="12"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="12"/>
+      <torznab:attr name="peers" value="12"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="2"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg"/>
+    </item>
+    <item>
+      <title>Tulsa King S04E03 2022 1080p SKY WEB-DL x264 DUAL DD+ 5.1 SUBS-GROUPB Spanish</title>
+      <description>Internal | Drama, Comedia, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18318.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18318</comments>
+      <pubDate>Thu, 05 Nov 2026 01:31:40 +0100</pubDate>
+      <size>2913873449</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Comedia, Crimen"/>
+      <torznab:attr name="tvdbid" value="413215"/>
+      <torznab:attr name="imdb" value="16358384"/>
+      <torznab:attr name="tmdbid" value="153312"/>
+      <torznab:attr name="seeders" value="76"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="76"/>
+      <torznab:attr name="peers" value="76"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/6ryay9RQfT5jrY9i1dveUUGryAO.jpg"/>
+    </item>
+    <item>
+      <title>The Mongoose 2026 1080p AMZN WEB-DL H.265 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Acción, Suspense</description>
+      <guid>https://tracker.example.com/torrent/download/18306.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18306</comments>
+      <pubDate>Wed, 04 Nov 2026 17:23:25 +0100</pubDate>
+      <size>3439168555</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Acción, Suspense"/>
+      <torznab:attr name="imdb" value="13611778"/>
+      <torznab:attr name="tmdbid" value="1294189"/>
+      <torznab:attr name="seeders" value="25"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="25"/>
+      <torznab:attr name="peers" value="25"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg"/>
+    </item>
+    <item>
+      <title>South Park S00E46 2022 1080p WEB-DL H.264 DUAL DD 2.0 SUBS Spanish</title>
+      <description>Animación, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18305.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18305</comments>
+      <pubDate>Wed, 04 Nov 2026 17:23:19 +0100</pubDate>
+      <size>3289041151</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Animación, Comedia"/>
+      <torznab:attr name="tvdbid" value="75897"/>
+      <torznab:attr name="imdb" value="0121955"/>
+      <torznab:attr name="tmdbid" value="2190"/>
+      <torznab:attr name="seeders" value="8"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="8"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg"/>
+    </item>
+    <item>
+      <title>South Park S00E45 2022 1080p WEB-DL H.264 DUAL DD 2.0 SUBS Spanish</title>
+      <description>Animación, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18304.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18304</comments>
+      <pubDate>Wed, 04 Nov 2026 17:23:18 +0100</pubDate>
+      <size>3096419562</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Animación, Comedia"/>
+      <torznab:attr name="tvdbid" value="75897"/>
+      <torznab:attr name="imdb" value="0121955"/>
+      <torznab:attr name="tmdbid" value="2190"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg"/>
+    </item>
+    <item>
+      <title>South Park S00E44 2021 1080p WEB-DL H.264 DUAL DD 2.0 SUBS Spanish</title>
+      <description>Animación, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18303.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18303</comments>
+      <pubDate>Wed, 04 Nov 2026 17:23:17 +0100</pubDate>
+      <size>4004683638</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Animación, Comedia"/>
+      <torznab:attr name="tvdbid" value="75897"/>
+      <torznab:attr name="imdb" value="0121955"/>
+      <torznab:attr name="tmdbid" value="2190"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg"/>
+    </item>
+    <item>
+      <title>South Park S00E43 2021 1080p WEB-DL H.264 DUAL DD 2.0 SUBS Spanish</title>
+      <description>Animación, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18302.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18302</comments>
+      <pubDate>Wed, 04 Nov 2026 17:23:15 +0100</pubDate>
+      <size>3823227222</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Animación, Comedia"/>
+      <torznab:attr name="tvdbid" value="75897"/>
+      <torznab:attr name="imdb" value="0121955"/>
+      <torznab:attr name="tmdbid" value="2190"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg"/>
+    </item>
+    <item>
+      <title>VisionQuest 2026 S01E07 1080p DSNP WEB-DL H264 ESP DD+ 5.1 ENG DD+ 5.1 Atmos SUBS-GROUPB Spanish</title>
+      <description>Internal | Drama, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18301.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18301</comments>
+      <pubDate>Wed, 04 Nov 2026 10:31:37 +0100</pubDate>
+      <size>2745557534</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="426606"/>
+      <torznab:attr name="imdb" value="23112594"/>
+      <torznab:attr name="tmdbid" value="213375"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="7"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg"/>
+    </item>
+    <item>
+      <title>VisionQuest S01E07 2026 1080p DSNP WEB-DL H.265 DUAL DD+ 5.1 ATMOS DD+ 5.1 SUBS-GROUP Spanish</title>
+      <description>Internal | Drama, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18300.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18300</comments>
+      <pubDate>Wed, 04 Nov 2026 06:33:21 +0100</pubDate>
+      <size>2204993836</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="426606"/>
+      <torznab:attr name="imdb" value="23112594"/>
+      <torznab:attr name="tmdbid" value="213375"/>
+      <torznab:attr name="seeders" value="116"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="113"/>
+      <torznab:attr name="peers" value="116"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg"/>
+    </item>
+    <item>
+      <title>Brothers S01 2026 1080p ATVP WEB-DL H.265 DUAL DD 5.1 ATMOS DD+ 5.1 SUBS Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18299.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18299</comments>
+      <pubDate>Wed, 04 Nov 2026 06:33:20 +0100</pubDate>
+      <size>13523746809</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="448114"/>
+      <torznab:attr name="imdb" value="6773088"/>
+      <torznab:attr name="tmdbid" value="250203"/>
+      <torznab:attr name="seeders" value="11"/>
+      <torznab:attr name="files" value="8"/>
+      <torznab:attr name="grabs" value="10"/>
+      <torznab:attr name="peers" value="12"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/zKV545LMFIlvliQHCPRqpZto6vv.jpg"/>
+    </item>
+    <item>
+      <title>South Park S00E49 2024 1080p WEB-DL H.264 DUAL DD 2.0 SUBS Spanish</title>
+      <description>Animación, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18298.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18298</comments>
+      <pubDate>Wed, 04 Nov 2026 06:33:15 +0100</pubDate>
+      <size>3243465770</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Animación, Comedia"/>
+      <torznab:attr name="tvdbid" value="75897"/>
+      <torznab:attr name="imdb" value="0121955"/>
+      <torznab:attr name="tmdbid" value="2190"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg"/>
+    </item>
+    <item>
+      <title>South Park S00E48 2023 1080p WEB-DL H.264 DUAL DD 2.0 SUBS Spanish</title>
+      <description>Animación, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18297.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18297</comments>
+      <pubDate>Wed, 04 Nov 2026 06:33:14 +0100</pubDate>
+      <size>2991998049</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Animación, Comedia"/>
+      <torznab:attr name="tvdbid" value="75897"/>
+      <torznab:attr name="imdb" value="0121955"/>
+      <torznab:attr name="tmdbid" value="2190"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg"/>
+    </item>
+    <item>
+      <title>South Park S27 2025 1080p WEBRip H.264 DUAL DD+ 2.0 SUBS Spanish</title>
+      <description>Animación, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18294.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18294</comments>
+      <pubDate>Wed, 04 Nov 2026 06:33:09 +0100</pubDate>
+      <size>5755489282</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Animación, Comedia"/>
+      <torznab:attr name="tvdbid" value="75897"/>
+      <torznab:attr name="imdb" value="0121955"/>
+      <torznab:attr name="tmdbid" value="2190"/>
+      <torznab:attr name="seeders" value="23"/>
+      <torznab:attr name="files" value="5"/>
+      <torznab:attr name="grabs" value="23"/>
+      <torznab:attr name="peers" value="23"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg"/>
+    </item>
+    <item>
+      <title>Doctor Mateo S05 2011 1080p AMZN WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18293.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18293</comments>
+      <pubDate>Tue, 03 Nov 2026 21:40:28 +0100</pubDate>
+      <size>29704427216</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="85260"/>
+      <torznab:attr name="imdb" value="1320315"/>
+      <torznab:attr name="tmdbid" value="34353"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="12"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/yfGiyFqw3CwHcjOYfGma390RWVL.jpg"/>
+    </item>
+    <item>
+      <title>Doctor Mateo S04 2010 1080p AMZN WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18292.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18292</comments>
+      <pubDate>Tue, 03 Nov 2026 21:40:26 +0100</pubDate>
+      <size>28235359493</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="85260"/>
+      <torznab:attr name="imdb" value="1320315"/>
+      <torznab:attr name="tmdbid" value="34353"/>
+      <torznab:attr name="seeders" value="8"/>
+      <torznab:attr name="files" value="12"/>
+      <torznab:attr name="grabs" value="7"/>
+      <torznab:attr name="peers" value="8"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/yfGiyFqw3CwHcjOYfGma390RWVL.jpg"/>
+    </item>
+    <item>
+      <title>Doctor Mateo S03 2010 1080p AMZN WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18291.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18291</comments>
+      <pubDate>Tue, 03 Nov 2026 21:40:25 +0100</pubDate>
+      <size>13712573549</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="85260"/>
+      <torznab:attr name="imdb" value="1320315"/>
+      <torznab:attr name="tmdbid" value="34353"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="6"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/yfGiyFqw3CwHcjOYfGma390RWVL.jpg"/>
+    </item>
+    <item>
+      <title>Doctor Mateo S02 2009 1080p AMZN WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18290.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18290</comments>
+      <pubDate>Tue, 03 Nov 2026 21:40:24 +0100</pubDate>
+      <size>37533303874</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="85260"/>
+      <torznab:attr name="imdb" value="1320315"/>
+      <torznab:attr name="tmdbid" value="34353"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="14"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/yfGiyFqw3CwHcjOYfGma390RWVL.jpg"/>
+    </item>
+    <item>
+      <title>Doctor Mateo S01 2009 1080p AMZN WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18289.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18289</comments>
+      <pubDate>Tue, 03 Nov 2026 21:40:23 +0100</pubDate>
+      <size>20213687126</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="tag" value="doubleupload"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="85260"/>
+      <torznab:attr name="imdb" value="1320315"/>
+      <torznab:attr name="tmdbid" value="34353"/>
+      <torznab:attr name="seeders" value="9"/>
+      <torznab:attr name="files" value="10"/>
+      <torznab:attr name="grabs" value="8"/>
+      <torznab:attr name="peers" value="9"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="2"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/yfGiyFqw3CwHcjOYfGma390RWVL.jpg"/>
+    </item>
+    <item>
+      <title>En tierra lejana S02E12 2025 1080p AMZN WEB-DL H.265 ESP AAC LC 2.0 SUBS-GROUP Spanish</title>
+      <description>Internal | Drama, Familia, Action &amp; Adventure</description>
+      <guid>https://tracker.example.com/torrent/download/18286.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18286</comments>
+      <pubDate>Tue, 03 Nov 2026 21:30:20 +0100</pubDate>
+      <size>2461245142</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Familia, Action &amp; Adventure"/>
+      <torznab:attr name="tvdbid" value="452840"/>
+      <torznab:attr name="imdb" value="34063491"/>
+      <torznab:attr name="tmdbid" value="274556"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/q9cZuNKm7NV2Vbad4AhdMqY5kyo.jpg"/>
+    </item>
+    <item>
+      <title>Quinqui Stars 2018 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Documental</description>
+      <guid>https://tracker.example.com/torrent/download/18285.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18285</comments>
+      <pubDate>Tue, 03 Nov 2026 21:30:18 +0100</pubDate>
+      <size>2688235807</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Documental"/>
+      <torznab:attr name="imdb" value="8445646"/>
+      <torznab:attr name="tmdbid" value="569010"/>
+      <torznab:attr name="seeders" value="9"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="7"/>
+      <torznab:attr name="peers" value="9"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/hnt6kjClAHeUydRh2Y1fNBCUkQR.jpg"/>
+    </item>
+    <item>
+      <title>Quinqui 2024 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18284.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18284</comments>
+      <pubDate>Tue, 03 Nov 2026 21:30:17 +0100</pubDate>
+      <size>335111666</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="8445646"/>
+      <torznab:attr name="tmdbid" value="1416522"/>
+      <torznab:attr name="seeders" value="9"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="8"/>
+      <torznab:attr name="peers" value="9"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/71XtobF59o6ssGUkh2NqUChIRz5.jpg"/>
+    </item>
+    <item>
+      <title>Sueños y pan 2023 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18283.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18283</comments>
+      <pubDate>Tue, 03 Nov 2026 21:28:31 +0100</pubDate>
+      <size>2988971807</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="imdb" value="27696474"/>
+      <torznab:attr name="tmdbid" value="1145041"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/vW1ayuyRIuIm3UhC3XxPenaVbv2.jpg"/>
+    </item>
+    <item>
+      <title>Perros callejeros II 1979 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Acción, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18282.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18282</comments>
+      <pubDate>Tue, 03 Nov 2026 21:25:43 +0100</pubDate>
+      <size>4117091668</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Acción, Crimen"/>
+      <torznab:attr name="imdb" value="0362969"/>
+      <torznab:attr name="tmdbid" value="132001"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/9foH7rlXCfYxcAhiCYZDmW9aSTI.jpg"/>
+    </item>
+    <item>
+      <title>Perros callejeros 1977 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Acción, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18281.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18281</comments>
+      <pubDate>Tue, 03 Nov 2026 21:25:42 +0100</pubDate>
+      <size>4750412688</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Acción, Crimen"/>
+      <torznab:attr name="imdb" value="0075060"/>
+      <torznab:attr name="tmdbid" value="47050"/>
+      <torznab:attr name="seeders" value="10"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="9"/>
+      <torznab:attr name="peers" value="10"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/fbUlbqOYsFHQMHYsew4b0gtQw9S.jpg"/>
+    </item>
+    <item>
+      <title>Perras callejeras 1985 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18280.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18280</comments>
+      <pubDate>Tue, 03 Nov 2026 21:25:40 +0100</pubDate>
+      <size>4039624328</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="imdb" value="0087904"/>
+      <torznab:attr name="tmdbid" value="297043"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/aM8fZRllfZabWqvJD4Ig3n2PjrP.jpg"/>
+    </item>
+    <item>
+      <title>Navajeros 1980 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18279.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18279</comments>
+      <pubDate>Tue, 03 Nov 2026 21:25:38 +0100</pubDate>
+      <size>4180886737</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="imdb" value="0081218"/>
+      <torznab:attr name="tmdbid" value="114051"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/2st34ncmQD01DJnjr7CCI8eRmB9.jpg"/>
+    </item>
+    <item>
+      <title>Miedo a salir de noche 1980 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Comedia, Suspense</description>
+      <guid>https://tracker.example.com/torrent/download/18278.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18278</comments>
+      <pubDate>Tue, 03 Nov 2026 21:25:37 +0100</pubDate>
+      <size>4723203059</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Comedia, Suspense"/>
+      <torznab:attr name="imdb" value="0079553"/>
+      <torznab:attr name="tmdbid" value="115895"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/mWk9OjEs2oFBywz09VhBWBSCTLl.jpg"/>
+    </item>
+    <item>
+      <title>Matar al Nani 1988 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18277.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18277</comments>
+      <pubDate>Tue, 03 Nov 2026 21:25:36 +0100</pubDate>
+      <size>9265817018</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="imdb" value="0095601"/>
+      <torznab:attr name="tmdbid" value="276677"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/kQQd03Joa4n1NNHcQsCWMzONqzu.jpg"/>
+    </item>
+    <item>
+      <title>Maravillas 1981 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18276.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18276</comments>
+      <pubDate>Tue, 03 Nov 2026 21:25:34 +0100</pubDate>
+      <size>4162018149</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0081124"/>
+      <torznab:attr name="tmdbid" value="179005"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/4lnOV5D2va3v3Cahwxbyv37sC26.jpg"/>
+    </item>
+    <item>
+      <title>Silencio by Wismichu S01 2016 1080p WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18206.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18206</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:49 +0100</pubDate>
+      <size>10172141173</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="imdb" value="12368008"/>
+      <torznab:attr name="tmdbid" value="340572"/>
+      <torznab:attr name="seeders" value="3"/>
+      <torznab:attr name="files" value="23"/>
+      <torznab:attr name="grabs" value="1"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/cV0XlU20bkXxl3PwmzxJhrTYHBS.jpg"/>
+    </item>
+    <item>
+      <title>Los últimos golpes de El Torete 1980 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Acción, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18275.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18275</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:37 +0100</pubDate>
+      <size>3728437329</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Acción, Crimen"/>
+      <torznab:attr name="imdb" value="0081823"/>
+      <torznab:attr name="tmdbid" value="132008"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/oPdVpYO1Z44ZvPo80z73VQ8nneZ.jpg"/>
+    </item>
+    <item>
+      <title>Los violadores del amanecer 1978 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Suspense, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18274.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18274</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:36 +0100</pubDate>
+      <size>2972274083</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Suspense, Crimen"/>
+      <torznab:attr name="imdb" value="0078466"/>
+      <torznab:attr name="tmdbid" value="229273"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/13PaVZDDSd717Q0aFh7P4I9Smin.jpg"/>
+    </item>
+    <item>
+      <title>Los placeres ocultos 1977 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18273.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18273</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:18 +0100</pubDate>
+      <size>3421828091</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0075069"/>
+      <torznab:attr name="tmdbid" value="115890"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/nySJOOZrQp8d29vUC3AdVhUhpJb.jpg"/>
+    </item>
+    <item>
+      <title>La reina del mate 1985 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18272.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18272</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:16 +0100</pubDate>
+      <size>3985794811</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0087991"/>
+      <torznab:attr name="tmdbid" value="315471"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/b7IKfFlhIwex57td6b1kAGaQxTs.jpg"/>
+    </item>
+    <item>
+      <title>La patria del 'Rata' 1981 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Acción, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18271.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18271</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:15 +0100</pubDate>
+      <size>4705825563</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Acción, Crimen"/>
+      <torznab:attr name="imdb" value="0081313"/>
+      <torznab:attr name="tmdbid" value="300399"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/75wtpZGc0wLLwlPVciZmcTIt0MF.jpg"/>
+    </item>
+    <item>
+      <title>La estanquera de Vallecas 1987 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18270.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18270</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:13 +0100</pubDate>
+      <size>4877315427</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Comedia"/>
+      <torznab:attr name="imdb" value="0092983"/>
+      <torznab:attr name="tmdbid" value="111708"/>
+      <torznab:attr name="seeders" value="10"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="9"/>
+      <torznab:attr name="peers" value="10"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/iTNv9ZlNFVsPevNS7yEyHvna5nf.jpg"/>
+    </item>
+    <item>
+      <title>Juventud drogada 1977 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18269.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18269</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:11 +0100</pubDate>
+      <size>4029938425</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="imdb" value="0076251"/>
+      <torznab:attr name="tmdbid" value="301840"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/xB57KzbzemhvLYjXAczd9j0DJUB.jpg"/>
+    </item>
+    <item>
+      <title>Fanny «Pelopaja» 1984 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18268.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18268</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:09 +0100</pubDate>
+      <size>4448310180</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Crimen"/>
+      <torznab:attr name="imdb" value="0087238"/>
+      <torznab:attr name="tmdbid" value="94386"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/vmHhKRrQsGM4jNxCMnYXKuETXhE.jpg"/>
+    </item>
+    <item>
+      <title>El pico 2 1984 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18267.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18267</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:08 +0100</pubDate>
+      <size>6436386494</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0087913"/>
+      <torznab:attr name="tmdbid" value="99760"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/fc4lQVxiWIuPAw1d6jpg5UaMOiO.jpg"/>
+    </item>
+    <item>
+      <title>El pico 1983 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18266.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18266</comments>
+      <pubDate>Tue, 03 Nov 2026 20:59:06 +0100</pubDate>
+      <size>7439290338</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0086104"/>
+      <torznab:attr name="tmdbid" value="98596"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/mlDv6yZ2Qoyq92xvmC56SQ2X2D1.jpg"/>
+    </item>
+    <item>
+      <title>Broadchurch S03 2017 1080p WEBRip H.265 DUAL DD 5.1 SUBS Spanish</title>
+      <description>Drama, Crimen, Misterio</description>
+      <guid>https://tracker.example.com/torrent/download/18244.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18244</comments>
+      <pubDate>Tue, 03 Nov 2026 20:52:54 +0100</pubDate>
+      <size>7690794780</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Drama, Crimen, Misterio"/>
+      <torznab:attr name="tvdbid" value="266398"/>
+      <torznab:attr name="imdb" value="2249364"/>
+      <torznab:attr name="tmdbid" value="1427"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="8"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg"/>
+    </item>
+    <item>
+      <title>Broadchurch S02 2015 1080p WEBRip H.265 DUAL DD 2.0 SUBS Spanish</title>
+      <description>Drama, Crimen, Misterio</description>
+      <guid>https://tracker.example.com/torrent/download/18243.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18243</comments>
+      <pubDate>Tue, 03 Nov 2026 20:52:43 +0100</pubDate>
+      <size>6459133130</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Drama, Crimen, Misterio"/>
+      <torznab:attr name="tvdbid" value="266398"/>
+      <torznab:attr name="imdb" value="2249364"/>
+      <torznab:attr name="tmdbid" value="1427"/>
+      <torznab:attr name="seeders" value="8"/>
+      <torznab:attr name="files" value="8"/>
+      <torznab:attr name="grabs" value="7"/>
+      <torznab:attr name="peers" value="8"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg"/>
+    </item>
+    <item>
+      <title>Broadchurch S01 2013 1080p WEBRip H.265 DUAL DD 2.0 SUBS Spanish</title>
+      <description>Drama, Crimen, Misterio</description>
+      <guid>https://tracker.example.com/torrent/download/18240.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18240</comments>
+      <pubDate>Tue, 03 Nov 2026 20:52:39 +0100</pubDate>
+      <size>5723720318</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="genre" value="Drama, Crimen, Misterio"/>
+      <torznab:attr name="tvdbid" value="266398"/>
+      <torznab:attr name="imdb" value="0224936"/>
+      <torznab:attr name="tmdbid" value="1427"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="8"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg"/>
+    </item>
+    <item>
+      <title>El Lute II: Mañana seré libre 1988 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18265.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18265</comments>
+      <pubDate>Tue, 03 Nov 2026 20:51:13 +0100</pubDate>
+      <size>5258795447</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="imdb" value="0095559"/>
+      <torznab:attr name="tmdbid" value="115695"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/eNLpsvvfrxQ924cpGFguN5ejTH6.jpg"/>
+    </item>
+    <item>
+      <title>El Lute: Camina o revienta 1987 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18264.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18264</comments>
+      <pubDate>Tue, 03 Nov 2026 20:51:12 +0100</pubDate>
+      <size>5294920938</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0093458"/>
+      <torznab:attr name="tmdbid" value="115693"/>
+      <torznab:attr name="seeders" value="8"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="7"/>
+      <torznab:attr name="peers" value="8"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/oONiv6etDkhjPfmzPjHInEDPg8p.jpg"/>
+    </item>
+    <item>
+      <title>Deprisa, deprisa 1981 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen, Romance</description>
+      <guid>https://tracker.example.com/torrent/download/18263.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18263</comments>
+      <pubDate>Tue, 03 Nov 2026 20:51:10 +0100</pubDate>
+      <size>4354383710</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen, Romance"/>
+      <torznab:attr name="imdb" value="0082259"/>
+      <torznab:attr name="tmdbid" value="47211"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/7CbZ7n4Lqjc6lazvXcp0MRyJHx3.jpg"/>
+    </item>
+    <item>
+      <title>Coto de caza 1983 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Terror, Suspense, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18262.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18262</comments>
+      <pubDate>Tue, 03 Nov 2026 20:51:08 +0100</pubDate>
+      <size>6057507963</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Terror, Suspense, Crimen"/>
+      <torznab:attr name="imdb" value="0085368"/>
+      <torznab:attr name="tmdbid" value="104980"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/11o1QcHLl0dCT8sf0lm520yZX8m.jpg"/>
+    </item>
+    <item>
+      <title>Corridas de alegría 1982 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18261.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18261</comments>
+      <pubDate>Tue, 03 Nov 2026 20:51:06 +0100</pubDate>
+      <size>3318888840</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Comedia, Crimen"/>
+      <torznab:attr name="imdb" value="0082204"/>
+      <torznab:attr name="tmdbid" value="302342"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/pVKphnlmarJp49fVvxWW3oE4o2o.jpg"/>
+    </item>
+    <item>
+      <title>Colegas 1982 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18260.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18260</comments>
+      <pubDate>Tue, 03 Nov 2026 20:51:05 +0100</pubDate>
+      <size>4074592982</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="1179259"/>
+      <torznab:attr name="tmdbid" value="115903"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/hAlIzdwCGKCFwr3BOE6S86NzsWi.jpg"/>
+    </item>
+    <item>
+      <title>Chocolate 1970 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18259.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18259</comments>
+      <pubDate>Tue, 03 Nov 2026 20:51:03 +0100</pubDate>
+      <size>3622138240</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0367594"/>
+      <torznab:attr name="tmdbid" value="301843"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/iJrftuagFmKsvZe8zBLLLZa2Wn0.jpg"/>
+    </item>
+    <item>
+      <title>Barcelona sur 1981 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18258.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18258</comments>
+      <pubDate>Tue, 03 Nov 2026 20:51:00 +0100</pubDate>
+      <size>4474232393</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0082047"/>
+      <torznab:attr name="tmdbid" value="301845"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/jRKMPTQjXX3qKBYrNtnvQMrhCr2.jpg"/>
+    </item>
+    <item>
+      <title>Ártico 2014 1080p FO WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18257.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18257</comments>
+      <pubDate>Tue, 03 Nov 2026 20:50:58 +0100</pubDate>
+      <size>1231854845</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="3509772"/>
+      <torznab:attr name="tmdbid" value="259752"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/ht22JJ3ZmsKYwS1nVMEjfBJ3n6c.jpg"/>
+    </item>
+    <item>
+      <title>27 Horas 1986 1080p WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18256.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18256</comments>
+      <pubDate>Tue, 03 Nov 2026 20:50:57 +0100</pubDate>
+      <size>3693060990</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="imdb" value="0090561"/>
+      <torznab:attr name="tmdbid" value="112803"/>
+      <torznab:attr name="seeders" value="3"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="2"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/oSWXSOfDWFBboL90pHir3nmCQV6.jpg"/>
+    </item>
+    <item>
+      <title>El Valiente Despereaux 2008 1080p SKY WEB-DL x264 ESP AAC 2.0 ENG DD+ 5.1 SUBS-GROUPB Spanish</title>
+      <description>Internal | Aventura, Animación, Familia</description>
+      <guid>https://tracker.example.com/torrent/download/18287.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18287</comments>
+      <pubDate>Tue, 03 Nov 2026 12:04:56 +0100</pubDate>
+      <size>5987137527</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="tag" value="doubleupload"/>
+      <torznab:attr name="genre" value="Aventura, Animación, Familia"/>
+      <torznab:attr name="imdb" value="0420238"/>
+      <torznab:attr name="tmdbid" value="10199"/>
+      <torznab:attr name="seeders" value="11"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="11"/>
+      <torznab:attr name="peers" value="11"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="2"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/uvzCRdX3zFf8ouwzIBmblrSK3PC.jpg"/>
+    </item>
+    <item>
+      <title>La colina de la hamburguesa 1987 1080p WEB-DL H.264 DD 2.0 SUBS-GROUPC Spanish</title>
+      <description>Drama, Acción, Bélica</description>
+      <guid>https://tracker.example.com/torrent/download/18254.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18254</comments>
+      <pubDate>Mon, 02 Nov 2026 22:04:19 +0100</pubDate>
+      <size>3793637617</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="genre" value="Drama, Acción, Bélica"/>
+      <torznab:attr name="imdb" value="0093137"/>
+      <torznab:attr name="tmdbid" value="10652"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/8O0ZennG3GC26z0gLnRJ5N0F8Ne.jpg"/>
+    </item>
+    <item>
+      <title>Tropic Thunder, ¡una guerra muy perra! 2008 1080p DSNP WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Aventura, Acción, Comedia, Bélica</description>
+      <guid>https://tracker.example.com/torrent/download/18253.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18253</comments>
+      <pubDate>Mon, 02 Nov 2026 15:33:35 +0100</pubDate>
+      <size>5202687272</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Aventura, Acción, Comedia, Bélica"/>
+      <torznab:attr name="imdb" value="0942385"/>
+      <torznab:attr name="tmdbid" value="7446"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="7"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg"/>
+    </item>
+    <item>
+      <title>Madre 2019 1080p DSNP WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama, Terror, Suspense</description>
+      <guid>https://tracker.example.com/torrent/download/18252.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18252</comments>
+      <pubDate>Mon, 02 Nov 2026 15:33:34 +0100</pubDate>
+      <size>6062479983</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Terror, Suspense"/>
+      <torznab:attr name="imdb" value="9234450"/>
+      <torznab:attr name="tmdbid" value="381283"/>
+      <torznab:attr name="seeders" value="13"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="13"/>
+      <torznab:attr name="peers" value="13"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg"/>
+    </item>
+    <item>
+      <title>Tropic Thunder, ¡una guerra muy perra! 2008 2160p DSNP 4K UHD WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Aventura, Acción, Comedia, Bélica</description>
+      <guid>https://tracker.example.com/torrent/download/18251.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18251</comments>
+      <pubDate>Mon, 02 Nov 2026 15:27:18 +0100</pubDate>
+      <size>12760642848</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Aventura, Acción, Comedia, Bélica"/>
+      <torznab:attr name="imdb" value="0942385"/>
+      <torznab:attr name="tmdbid" value="7446"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/rETp4g3xc3Zt8L3lMgFPsb1bKQC.jpg"/>
+    </item>
+    <item>
+      <title>Ninja Turtles: Fuera de las sombras 2016 2160p DSNP 4K UHD WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Aventura, Acción, Comedia, Ciencia ficción, Familia</description>
+      <guid>https://tracker.example.com/torrent/download/18250.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18250</comments>
+      <pubDate>Mon, 02 Nov 2026 15:27:17 +0100</pubDate>
+      <size>13231067566</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Aventura, Acción, Comedia, Ciencia ficción, Familia"/>
+      <torznab:attr name="imdb" value="3949660"/>
+      <torznab:attr name="tmdbid" value="308531"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg"/>
+    </item>
+    <item>
+      <title>Madre 2019 2160p DSNP 4K UHD WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama, Terror, Suspense</description>
+      <guid>https://tracker.example.com/torrent/download/18249.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18249</comments>
+      <pubDate>Mon, 02 Nov 2026 15:27:16 +0100</pubDate>
+      <size>14587884337</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Drama, Terror, Suspense"/>
+      <torznab:attr name="imdb" value="9234450"/>
+      <torznab:attr name="tmdbid" value="381283"/>
+      <torznab:attr name="seeders" value="4"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="4"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg"/>
+    </item>
+    <item>
+      <title>Julieta 2016 1080p NF WEB-DL H.265 ESP DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama, Romance</description>
+      <guid>https://tracker.example.com/torrent/download/18242.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18242</comments>
+      <pubDate>Mon, 02 Nov 2026 13:38:31 +0100</pubDate>
+      <size>2050472031</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Romance"/>
+      <torznab:attr name="imdb" value="4326444"/>
+      <torznab:attr name="tmdbid" value="332872"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/kiiAXDU4X0aZkaSg1iEKpRFycKR.jpg"/>
+    </item>
+    <item>
+      <title>Elon Musk al descubierto 2026 1080p NF WEB-DL H.265 ENG DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Documental</description>
+      <guid>https://tracker.example.com/torrent/download/18241.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18241</comments>
+      <pubDate>Mon, 02 Nov 2026 13:38:29 +0100</pubDate>
+      <size>2725646649</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Documental"/>
+      <torznab:attr name="imdb" value="36303056"/>
+      <torznab:attr name="tmdbid" value="1567688"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/lPR935r3IxL6MeUbLYu0FFVC4z4.jpg"/>
+    </item>
+    <item>
+      <title>La plaga 2025 1080p M+ WEB-DL H.264 ESP-ENG DD+ 5.1 SUBS-GROUP Spanish</title>
+      <description>Internal | Drama, Suspense</description>
+      <guid>https://tracker.example.com/torrent/download/18248.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18248</comments>
+      <pubDate>Mon, 02 Nov 2026 12:41:02 +0100</pubDate>
+      <size>5905372244</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Suspense"/>
+      <torznab:attr name="imdb" value="32792934"/>
+      <torznab:attr name="tmdbid" value="1370814"/>
+      <torznab:attr name="seeders" value="6"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="6"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/qIvZJM4FduzTZ0P2qFK2gdcZ2vC.jpg"/>
+    </item>
+    <item>
+      <title>Tierra de mafiosos S02E07 2026 1080p AMZN WEB-DL H.265 DUAL DD+ 5.1 SUBS-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18239.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18239</comments>
+      <pubDate>Mon, 02 Nov 2026 12:32:56 +0100</pubDate>
+      <size>1716643975</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="tvdbid" value="446831"/>
+      <torznab:attr name="imdb" value="31510819"/>
+      <torznab:attr name="tmdbid" value="247718"/>
+      <torznab:attr name="seeders" value="27"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="28"/>
+      <torznab:attr name="peers" value="27"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg"/>
+    </item>
+    <item>
+      <title>Tierra de Mafiosos 2025 S02E07 1080p AMZN WEB-DL H264 DUAL DD+ 5.1 SUBS-GROUPB Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18238.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18238</comments>
+      <pubDate>Mon, 02 Nov 2026 01:18:34 +0100</pubDate>
+      <size>4306065809</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="tvdbid" value="446831"/>
+      <torznab:attr name="imdb" value="31510819"/>
+      <torznab:attr name="tmdbid" value="247718"/>
+      <torznab:attr name="seeders" value="121"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="123"/>
+      <torznab:attr name="peers" value="121"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg"/>
+    </item>
+    <item>
+      <title>La Isla del Tesoro 2026 S01E04 1080p AMZN WEB-DL H264 DUAL DD+ 5.1 SUBS-GROUPB Spanish</title>
+      <description>Internal | Action &amp; Adventure</description>
+      <guid>https://tracker.example.com/torrent/download/18237.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18237</comments>
+      <pubDate>Mon, 02 Nov 2026 01:00:58 +0100</pubDate>
+      <size>3730468753</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Action &amp; Adventure"/>
+      <torznab:attr name="tvdbid" value="474916"/>
+      <torznab:attr name="imdb" value="40385667"/>
+      <torznab:attr name="tmdbid" value="333101"/>
+      <torznab:attr name="seeders" value="18"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="18"/>
+      <torznab:attr name="peers" value="18"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg"/>
+    </item>
+    <item>
+      <title>Dragon Ball Super: Beerus S01E04 2026 CR WEB-DL H.265 JAP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18236.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18236</comments>
+      <pubDate>Sun, 01 Nov 2026 21:29:15 +0100</pubDate>
+      <size>885779370</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="473154"/>
+      <torznab:attr name="imdb" value="39395275"/>
+      <torznab:attr name="tmdbid" value="312359"/>
+      <torznab:attr name="seeders" value="16"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="15"/>
+      <torznab:attr name="peers" value="16"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg"/>
+    </item>
+    <item>
+      <title>Ana de las tejas verdes S01 1979 1080p FLMN WEB-DL AVC ESP-CAT AAC LC 2.0 SUBS-GROUPD Spanish</title>
+      <description>Animación, Drama, Familia</description>
+      <guid>https://tracker.example.com/torrent/download/18223.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18223</comments>
+      <pubDate>Sun, 01 Nov 2026 15:05:38 +0100</pubDate>
+      <size>57312109973</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Animación, Drama, Familia"/>
+      <torznab:attr name="tvdbid" value="84569"/>
+      <torznab:attr name="imdb" value="0078560"/>
+      <torznab:attr name="tmdbid" value="16047"/>
+      <torznab:attr name="seeders" value="7"/>
+      <torznab:attr name="files" value="50"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="7"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/66I1lcG8lW2SQodTsJiVhc9DXYf.jpg"/>
+    </item>
+    <item>
+      <title>Manos a la obra S06 2001 576p WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18235.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18235</comments>
+      <pubDate>Sun, 01 Nov 2026 14:51:52 +0100</pubDate>
+      <size>11563858188</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="122631"/>
+      <torznab:attr name="imdb" value="0124955"/>
+      <torznab:attr name="tmdbid" value="61776"/>
+      <torznab:attr name="seeders" value="3"/>
+      <torznab:attr name="files" value="13"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/n5f1VtkrDvyMKBJH0YFB1D4ObTQ.jpg"/>
+    </item>
+    <item>
+      <title>Manos a la obra S05 2000 540p WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18234.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18234</comments>
+      <pubDate>Sun, 01 Nov 2026 14:51:50 +0100</pubDate>
+      <size>11848902708</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="122631"/>
+      <torznab:attr name="imdb" value="0124955"/>
+      <torznab:attr name="tmdbid" value="61776"/>
+      <torznab:attr name="seeders" value="3"/>
+      <torznab:attr name="files" value="13"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/n5f1VtkrDvyMKBJH0YFB1D4ObTQ.jpg"/>
+    </item>
+    <item>
+      <title>Manos a la obra S04 2000 576p WEB-DL H.265 ESP DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18233.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18233</comments>
+      <pubDate>Sun, 01 Nov 2026 14:51:49 +0100</pubDate>
+      <size>9980390921</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Comedia"/>
+      <torznab:attr name="tvdbid" value="122631"/>
+      <torznab:attr name="imdb" value="0124955"/>
+      <torznab:attr name="tmdbid" value="61776"/>
+      <torznab:attr name="seeders" value="3"/>
+      <torznab:attr name="files" value="11"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/n5f1VtkrDvyMKBJH0YFB1D4ObTQ.jpg"/>
+    </item>
+    <item>
+      <title>Hijos del cielo 2024 1080p AMZN WEB-DL H.265 DUAL DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Fantasía, Animación</description>
+      <guid>https://tracker.example.com/torrent/download/18232.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18232</comments>
+      <pubDate>Sun, 01 Nov 2026 13:43:07 +0100</pubDate>
+      <size>3359849327</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Fantasía, Animación"/>
+      <torznab:attr name="imdb" value="32591517"/>
+      <torznab:attr name="tmdbid" value="1303336"/>
+      <torznab:attr name="seeders" value="12"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="11"/>
+      <torznab:attr name="peers" value="12"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/cjmn4iFSWuPsMi478daFVPuwb7w.jpg"/>
+    </item>
+    <item>
+      <title>Noragami S01 2014 1080p ANIMEBOX WEB-DL H.265 DUAL DD+ 2.0-GROUP Spanish</title>
+      <description>Internal | Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy</description>
+      <guid>https://tracker.example.com/torrent/download/18231.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18231</comments>
+      <pubDate>Sun, 01 Nov 2026 13:43:05 +0100</pubDate>
+      <size>4789463358</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Animación, Action &amp; Adventure, Sci-Fi &amp; Fantasy"/>
+      <torznab:attr name="tvdbid" value="275610"/>
+      <torznab:attr name="imdb" value="3225270"/>
+      <torznab:attr name="tmdbid" value="64710"/>
+      <torznab:attr name="seeders" value="9"/>
+      <torznab:attr name="files" value="12"/>
+      <torznab:attr name="grabs" value="9"/>
+      <torznab:attr name="peers" value="9"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/8yGBg40I36c98OeKMMjkJkCThkf.jpg"/>
+    </item>
+    <item>
+      <title>Medusa S02 2026 1080p NF WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18230.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18230</comments>
+      <pubDate>Sun, 01 Nov 2026 13:38:14 +0100</pubDate>
+      <size>15079914290</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="453618"/>
+      <torznab:attr name="imdb" value="35836959"/>
+      <torznab:attr name="tmdbid" value="284792"/>
+      <torznab:attr name="seeders" value="8"/>
+      <torznab:attr name="files" value="12"/>
+      <torznab:attr name="grabs" value="8"/>
+      <torznab:attr name="peers" value="8"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg"/>
+    </item>
+    <item>
+      <title>Detective Conan 23: El puño de Zafiro Azul 2019 1080p BDRemux AVC ESP-JAP-CAT DTS-HD MA 5.1 SUBS-Y-467 Spanish</title>
+      <description>Aventura, Animación, Acción, Crimen, Misterio</description>
+      <guid>https://tracker.example.com/torrent/download/18222.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18222</comments>
+      <pubDate>Sun, 01 Nov 2026 13:38:05 +0100</pubDate>
+      <size>34219116176</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="genre" value="Aventura, Animación, Acción, Crimen, Misterio"/>
+      <torznab:attr name="imdb" value="9501310"/>
+      <torznab:attr name="tmdbid" value="566555"/>
+      <torznab:attr name="seeders" value="3"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="2"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/f1f6aLyJenOrClOlbvPNmJ2qtwu.jpg"/>
+    </item>
+    <item>
+      <title>Medusa S01 2025 1080p NF WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18229.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18229</comments>
+      <pubDate>Sun, 01 Nov 2026 13:37:18 +0100</pubDate>
+      <size>14845375069</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="453618"/>
+      <torznab:attr name="imdb" value="35836959"/>
+      <torznab:attr name="tmdbid" value="284792"/>
+      <torznab:attr name="seeders" value="3"/>
+      <torznab:attr name="files" value="12"/>
+      <torznab:attr name="grabs" value="3"/>
+      <torznab:attr name="peers" value="3"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg"/>
+    </item>
+    <item>
+      <title>Trigger point: Fuera de control S03 2025 1080p M+ WEB-DL H.264 ESP-ENG DD+ 5.1 SUBS-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18228.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18228</comments>
+      <pubDate>Sun, 01 Nov 2026 13:34:12 +0100</pubDate>
+      <size>16634440732</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="tvdbid" value="395985"/>
+      <torznab:attr name="imdb" value="11958610"/>
+      <torznab:attr name="tmdbid" value="127716"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="6"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/yGeQsRm4hBErW1q0UlflCFQzI0o.jpg"/>
+    </item>
+    <item>
+      <title>Trigger point: Fuera de control S02 2024 1080p M+ WEB-DL H.264 ESP-ENG DD+ 5.1 SUBS-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18227.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18227</comments>
+      <pubDate>Sun, 01 Nov 2026 13:34:10 +0100</pubDate>
+      <size>17079484819</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="tvdbid" value="395985"/>
+      <torznab:attr name="imdb" value="11958610"/>
+      <torznab:attr name="tmdbid" value="127716"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="6"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/yGeQsRm4hBErW1q0UlflCFQzI0o.jpg"/>
+    </item>
+    <item>
+      <title>Trigger point: Fuera de control S01 2022 1080p M+ WEB-DL H.264 ESP-ENG DD+ 5.1 SUBS-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen</description>
+      <guid>https://tracker.example.com/torrent/download/18226.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18226</comments>
+      <pubDate>Sun, 01 Nov 2026 13:34:08 +0100</pubDate>
+      <size>17226114214</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Drama, Crimen"/>
+      <torznab:attr name="tvdbid" value="395985"/>
+      <torznab:attr name="imdb" value="11958610"/>
+      <torznab:attr name="tmdbid" value="127716"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="6"/>
+      <torznab:attr name="grabs" value="4"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/yGeQsRm4hBErW1q0UlflCFQzI0o.jpg"/>
+    </item>
+    <item>
+      <title>El hijo del carpintero 2025 1080p M+ WEB-DL H.264 ESP-ENG DD+ 5.1 SUBS-GROUP Spanish</title>
+      <description>Internal | Fantasía, Terror</description>
+      <guid>https://tracker.example.com/torrent/download/18224.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18224</comments>
+      <pubDate>Sun, 01 Nov 2026 10:35:42 +0100</pubDate>
+      <size>5507877215</size>
+      <category>2000</category>
+      <category>100001</category>
+      <torznab:attr name="category" value="2000"/>
+      <torznab:attr name="category" value="100001"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Fantasía, Terror"/>
+      <torznab:attr name="imdb" value="32304349"/>
+      <torznab:attr name="tmdbid" value="1286185"/>
+      <torznab:attr name="seeders" value="20"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="17"/>
+      <torznab:attr name="peers" value="20"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/3BSDrV3NJRXf00sQDclPlLwwK26.jpg"/>
+    </item>
+    <item>
+      <title>Grande de España S01 2026 1080p NF WEB-DL H.265 HDR10 ESP DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama, Comedia</description>
+      <guid>https://tracker.example.com/torrent/download/18218.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18218</comments>
+      <pubDate>Sat, 31 Oct 2026 16:54:14 +0100</pubDate>
+      <size>5768367306</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Comedia"/>
+      <torznab:attr name="tvdbid" value="482772"/>
+      <torznab:attr name="imdb" value="39387986"/>
+      <torznab:attr name="tmdbid" value="335535"/>
+      <torznab:attr name="seeders" value="14"/>
+      <torznab:attr name="files" value="6"/>
+      <torznab:attr name="grabs" value="13"/>
+      <torznab:attr name="peers" value="14"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg"/>
+    </item>
+    <item>
+      <title>Bajo la superficie S01 2026 1080p NF WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama, Misterio</description>
+      <guid>https://tracker.example.com/torrent/download/18217.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18217</comments>
+      <pubDate>Sat, 31 Oct 2026 16:54:13 +0100</pubDate>
+      <size>4740509946</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Misterio"/>
+      <torznab:attr name="tvdbid" value="480205"/>
+      <torznab:attr name="imdb" value="35934755"/>
+      <torznab:attr name="tmdbid" value="285322"/>
+      <torznab:attr name="seeders" value="13"/>
+      <torznab:attr name="files" value="6"/>
+      <torznab:attr name="grabs" value="11"/>
+      <torznab:attr name="peers" value="16"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="1"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg"/>
+    </item>
+    <item>
+      <title>Masterchef Celebrity Legends S01E09 2026 1080p DSNP WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia, Reality</description>
+      <guid>https://tracker.example.com/torrent/download/18214.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18214</comments>
+      <pubDate>Sat, 31 Oct 2026 16:54:09 +0100</pubDate>
+      <size>9268451540</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Comedia, Reality"/>
+      <torznab:attr name="tvdbid" value="482363"/>
+      <torznab:attr name="tmdbid" value="334389"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/pNxvhkV8jwMrGTAdgZLUypAs1mL.jpg"/>
+    </item>
+    <item>
+      <title>Masterchef Celebrity Legends S01E08 2026 1080p DSNP WEB-DL H.264 ESP AAC LC 2.0-GROUP Spanish</title>
+      <description>Internal | Comedia, Reality</description>
+      <guid>https://tracker.example.com/torrent/download/18213.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18213</comments>
+      <pubDate>Sat, 31 Oct 2026 16:54:08 +0100</pubDate>
+      <size>9266056589</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Comedia, Reality"/>
+      <torznab:attr name="tvdbid" value="482363"/>
+      <torznab:attr name="tmdbid" value="334389"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="1"/>
+      <torznab:attr name="grabs" value="5"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/pNxvhkV8jwMrGTAdgZLUypAs1mL.jpg"/>
+    </item>
+    <item>
+      <title>Lupin S03 2026 1080p NF WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen, Misterio</description>
+      <guid>https://tracker.example.com/torrent/download/18212.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18212</comments>
+      <pubDate>Sat, 31 Oct 2026 16:52:26 +0100</pubDate>
+      <size>9922292579</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="freeleech"/>
+      <torznab:attr name="tag" value="doubleupload"/>
+      <torznab:attr name="genre" value="Drama, Crimen, Misterio"/>
+      <torznab:attr name="tvdbid" value="375921"/>
+      <torznab:attr name="imdb" value="2531336"/>
+      <torznab:attr name="tmdbid" value="96677"/>
+      <torznab:attr name="seeders" value="15"/>
+      <torznab:attr name="files" value="7"/>
+      <torznab:attr name="grabs" value="18"/>
+      <torznab:attr name="peers" value="15"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0"/>
+      <torznab:attr name="uploadvolumefactor" value="2"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg"/>
+    </item>
+    <item>
+      <title>Lupin S02 2023 1080p NF WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen, Misterio</description>
+      <guid>https://tracker.example.com/torrent/download/18211.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18211</comments>
+      <pubDate>Sat, 31 Oct 2026 16:52:24 +0100</pubDate>
+      <size>8908217693</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen, Misterio"/>
+      <torznab:attr name="tvdbid" value="375921"/>
+      <torznab:attr name="imdb" value="2531336"/>
+      <torznab:attr name="tmdbid" value="96677"/>
+      <torznab:attr name="seeders" value="12"/>
+      <torznab:attr name="files" value="5"/>
+      <torznab:attr name="grabs" value="12"/>
+      <torznab:attr name="peers" value="12"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg"/>
+    </item>
+    <item>
+      <title>Lupin S01 2021 1080p NF WEB-DL H.265 HDR10 DUAL DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama, Crimen, Misterio</description>
+      <guid>https://tracker.example.com/torrent/download/18210.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18210</comments>
+      <pubDate>Sat, 31 Oct 2026 16:52:23 +0100</pubDate>
+      <size>8296366810</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="genre" value="Drama, Crimen, Misterio"/>
+      <torznab:attr name="tvdbid" value="375921"/>
+      <torznab:attr name="imdb" value="2531336"/>
+      <torznab:attr name="tmdbid" value="96677"/>
+      <torznab:attr name="seeders" value="11"/>
+      <torznab:attr name="files" value="5"/>
+      <torznab:attr name="grabs" value="10"/>
+      <torznab:attr name="peers" value="11"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.75"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg"/>
+    </item>
+    <item>
+      <title>El don de engañar S01 2026 1080p NF WEB-DL H.265 HDR10 MULTI DD+ 5.1-GROUP Spanish</title>
+      <description>Internal | Drama</description>
+      <guid>https://tracker.example.com/torrent/download/18209.this-is-the-users-rss-key</guid>
+      <prowlarrindexer id="7" type="private">Example Tracker (API)</prowlarrindexer>
+      <comments>https://tracker.example.com/torrents/18209</comments>
+      <pubDate>Sat, 31 Oct 2026 16:52:07 +0100</pubDate>
+      <size>14736750461</size>
+      <category>5000</category>
+      <category>100002</category>
+      <torznab:attr name="category" value="5000"/>
+      <torznab:attr name="category" value="100002"/>
+      <torznab:attr name="tag" value="internal"/>
+      <torznab:attr name="tag" value="halfleech"/>
+      <torznab:attr name="genre" value="Drama"/>
+      <torznab:attr name="tvdbid" value="482360"/>
+      <torznab:attr name="imdb" value="45854934"/>
+      <torznab:attr name="tmdbid" value="334700"/>
+      <torznab:attr name="seeders" value="5"/>
+      <torznab:attr name="files" value="10"/>
+      <torznab:attr name="grabs" value="6"/>
+      <torznab:attr name="peers" value="5"/>
+      <torznab:attr name="minimumratio" value="2"/>
+      <torznab:attr name="minimumseedtime" value="259200"/>
+      <torznab:attr name="downloadvolumefactor" value="0.5"/>
+      <torznab:attr name="uploadvolumefactor" value="1"/>
+      <torznab:attr name="coverurl" value="https://image.tmdb.org/t/p/w92/2xP7n3cQ5cvHaoMqmpAKt86feBl.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+[submodule "specs/torznab"]
+	path = specs/torznab
+	url = https://github.com/torznab/torznab.github.io

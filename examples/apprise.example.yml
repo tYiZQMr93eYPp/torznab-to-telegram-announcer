@@ -1,0 +1,7 @@
+# Not read by the announcer: an example of the configuration to store on the Apprise API
+# server under the id `torznab-announcer` (config.yml: `apprise_config_id`).
+# A feed with `tag: my-tracker` notifies the URLs tagged `my-tracker`.
+urls:
+  # Chat ids of channels start with -100. To post in a forum topic use {chat_id}:{topic}.
+  - tgram://123456789:replace-with-your-bot-token/-1001234567890/:
+      - tag: my-tracker

@@ -1,0 +1,16 @@
+services:
+  announcer:
+    image: tyizqmr93eypp/torznab-to-telegram-announcer:latest
+    restart: unless-stopped
+    # Every ${NAME} used in config.yml must be defined here.
+    environment:
+      PUID: ${PUID:-1000}
+      PGID: ${PGID:-1000}
+      MY_TRACKER_API_KEY: ${MY_TRACKER_API_KEY:?set MY_TRACKER_API_KEY}
+      APPRISE_URL: apprises://apprise.example.org
+    volumes:
+      - ./examples/config.example.yml:/config/config.yml:ro
+      - announcer-data:/data
+
+volumes:
+  announcer-data:

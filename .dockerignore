@@ -1,0 +1,11 @@
+# Exclude everything, then allow only what the Dockerfile copies.
+*
+
+!pyproject.toml
+!uv.lock
+!README.md
+!docker-entrypoint.sh
+!src/
+
+**/__pycache__
+**/*.py[oc]
