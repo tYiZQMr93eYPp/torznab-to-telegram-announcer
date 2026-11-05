@@ -1,6 +1,6 @@
 [project]
 name = "torznab-to-telegram-announcer"
-version = "0.1.0"
+version = "1.0.0"
 description = "torznab-to-telegram-announcer"
 readme = "README.md"
 requires-python = ">=3.14"
