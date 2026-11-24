@@ -18,6 +18,7 @@ Watches one or more [Torznab](specs/torznab/) RSS feeds and announces new releas
 - Built to run as a long-lived Docker service. It shuts down cleanly on `SIGTERM`.
 - The first poll of a feed only *seeds* the database, so an empty database never floods the channel. Only releases that show up afterwards are announced.
 - Failed announcements are retried on the next poll, oldest first.
+- Optional alerts when a feed keeps failing.
 - Releases are kept in SQLite, keyed by the item's `comments` URL. The feed's `guid` is never stored or logged, because it usually contains your download key.
 - API keys are redacted from logs.
 
@@ -129,6 +130,7 @@ The configuration is a YAML file, read from `--config` (or `$ANNOUNCER_CONFIG`, 
 | `database` | SQLite file. Default: `announcer.sqlite3`. |
 | `send_delay` | Seconds between two messages. Default: `3`. |
 | `apprise.url` | Apprise API server, `apprise://` or `apprises://`. Credentials, a port and a path prefix are supported. |
+| `alerts` | Optional. Reports feeds that keep failing, [below](#alerts). |
 | `category_map` | Optional. Replaces the default [category ranges](#categories). |
 | `feeds` | One or more feeds, below. |
 
@@ -146,6 +148,17 @@ Each entry of `feeds`:
 | `categories` | Optional. Per-feed ranges that take precedence over `category_map` and extend it. Values are ids or `[low, high]` ranges. |
 
 Command line: `torznab-to-telegram-announcer [--config PATH] [--log-level DEBUG|INFO|WARNING|ERROR]`.
+
+### Alerts
+
+Without `alerts`, a failing feed is only logged. With it, a message is sent as soon as a feed has failed `after_failures` polls in a row (a failed fetch or a failed announcement), and again at most once per `cooldown` while it keeps failing. The counter resets on the first successful poll. Cooldowns are kept in memory, so a restart resets them.
+
+| Key | Description |
+| --- | --- |
+| `apprise_config_id` | Configuration id on the Apprise API server to alert through. |
+| `tag` | A tag, or a list of tags, selecting URLs in that configuration. |
+| `after_failures` | Consecutive failures before alerting. Default: `5`. |
+| `cooldown` | Minimum time between two alerts about the same feed: seconds, or `30m` / `24h`. Default: `24h`. |
 
 ### Logging
 

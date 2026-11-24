@@ -6,7 +6,7 @@ import pytest
 import respx
 
 from torznab_to_telegram_announcer.categories import DEFAULT_CATEGORY_RANGES
-from torznab_to_telegram_announcer.config import FeedConfig
+from torznab_to_telegram_announcer.config import AlertSettings, FeedConfig
 from torznab_to_telegram_announcer.runner import FeedRunner, next_delay
 from torznab_to_telegram_announcer.storage import Storage
 from torznab_to_telegram_announcer.torznab import TorznabClient
@@ -167,6 +167,72 @@ async def test_unchanged_feed_is_handled(runner, notifier):
     assert await runner.poll() is True
     assert route.calls.last.request.headers["If-None-Match"] == '"v1"'
     assert notifier.sent == []
+
+
+@respx.mock
+async def test_alert_after_consecutive_failures_at_most_once_per_cooldown(storage, notifier):
+    route = respx.get(re.compile(r"https://indexer\.example\.com/.*"))
+    route.respond(403)
+    now = 0.0
+    feed = FeedConfig(name="feed", url=FEED_URL, apprise_config_id="main", tag=["movies"])
+    alerts = AlertSettings(apprise_config_id="ops", tag="alerts", after_failures=3, cooldown="24h")
+    async with httpx.AsyncClient() as http:
+        runner = FeedRunner(
+            feed,
+            TorznabClient(http, feed.url, feed.headers, feed.timeout),
+            storage,
+            notifier,
+            DEFAULT_CATEGORY_RANGES,
+            send_delay=0,
+            stop=asyncio.Event(),
+            alerts=alerts,
+            clock=lambda: now,
+        )
+
+        async def fail(failures):
+            assert await runner.poll() is False
+            await runner._alert_if_needed(failures)
+
+        await fail(1)
+        await fail(2)
+        assert notifier.sent == []
+
+        await fail(3)
+        ((config_id, tags, body),) = notifier.sent
+        assert (config_id, tags) == ("ops", ["alerts"])
+        assert "feed" in body and "403" in body and "SECRET" not in body
+
+        now = 86399
+        await fail(4)
+        assert len(notifier.sent) == 1
+
+        now = 86400
+        await fail(5)
+        assert len(notifier.sent) == 2
+
+
+@respx.mock
+async def test_failed_alert_is_retried_on_the_next_failure(storage, notifier):
+    respx.get(re.compile(r"https://indexer\.example\.com/.*")).respond(500)
+    feed = FeedConfig(name="feed", url=FEED_URL, apprise_config_id="main", tag=["movies"])
+    alerts = AlertSettings(apprise_config_id="ops", tag="alerts", after_failures=1)
+    async with httpx.AsyncClient() as http:
+        runner = FeedRunner(
+            feed,
+            TorznabClient(http, feed.url, feed.headers, feed.timeout),
+            storage,
+            notifier,
+            DEFAULT_CATEGORY_RANGES,
+            send_delay=0,
+            stop=asyncio.Event(),
+            alerts=alerts,
+        )
+        await runner.poll()
+        notifier.fail = True
+        await runner._alert_if_needed(1)
+        notifier.fail = False
+        await runner._alert_if_needed(2)
+    assert len(notifier.sent) == 1
 
 
 def test_backoff():
