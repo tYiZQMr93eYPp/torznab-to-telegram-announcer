@@ -20,6 +20,15 @@ apprise:
   # a port and a path prefix are supported.
   url: ${APPRISE_URL}
 
+# Optional. Without it, failing feeds are only logged. A message is sent through this
+# Apprise configuration once a feed fails `after_failures` polls in a row, then at most
+# once per `cooldown` while it keeps failing.
+# alerts:
+#   apprise_config_id: torznab-announcer
+#   tag: ops
+#   after_failures: 5
+#   cooldown: 24h
+
 # Optional. These are the built-in defaults (the Newznab/Torznab standard top-level
 # categories). Overriding this replaces the whole default map.
 # category_map:

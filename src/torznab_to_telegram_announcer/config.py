@@ -112,12 +112,35 @@ class AppriseSettings(BaseModel):
         return value
 
 
+class AlertSettings(BaseModel):
+    """Where to report a feed that keeps failing."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    apprise_config_id: str = Field(pattern=r"^[A-Za-z0-9_-]{1,128}$")
+    tag: list[str] = Field(min_length=1)
+    after_failures: int = Field(default=5, ge=1)
+    # Minimum time between two alerts about the same feed.
+    cooldown: Duration = 86400
+
+    @field_validator("cooldown", mode="before")
+    @classmethod
+    def _cooldown(cls, value: Any) -> int:
+        return parse_duration(value)
+
+    @field_validator("tag", mode="before")
+    @classmethod
+    def _tag(cls, value: Any) -> Any:
+        return [value] if isinstance(value, str) else value
+
+
 class Config(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
     database: Path = Path("announcer.sqlite3")
     send_delay: float = Field(default=3.0, ge=0)
     apprise: AppriseSettings
+    alerts: AlertSettings | None = None
     category_map: dict[str, list[tuple[int, int]]] = {
         name: list(ranges) for name, ranges in DEFAULT_CATEGORY_RANGES.items()
     }

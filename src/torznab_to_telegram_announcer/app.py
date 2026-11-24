@@ -21,6 +21,8 @@ async def serve(config: Config) -> None:
     notifier = AppriseNotifier(config.apprise.url)
     for feed in config.feeds:
         notifier.prepare(feed.apprise_config_id, feed.tag)
+    if config.alerts:
+        notifier.prepare(config.alerts.apprise_config_id, config.alerts.tag)
 
     storage = Storage(config.database)
     stop = asyncio.Event()

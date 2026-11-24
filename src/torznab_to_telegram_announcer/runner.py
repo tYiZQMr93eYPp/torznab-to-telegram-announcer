@@ -1,9 +1,11 @@
 import asyncio
 import logging
+import time
+from collections.abc import Callable
 
 from .categories import CategoryRanges, merge_ranges
-from .config import Config, FeedConfig
-from .formatting import format_release
+from .config import AlertSettings, Config, FeedConfig
+from .formatting import escape_markdown, format_release
 from .notifier import Notifier
 from .storage import Storage
 from .torznab import TorznabClient, TorznabError
@@ -32,8 +34,14 @@ class FeedRunner:
         category_map: CategoryRanges,
         send_delay: float,
         stop: asyncio.Event,
+        alerts: AlertSettings | None = None,
+        clock: Callable[[], float] = time.monotonic,
     ) -> None:
         self.feed = feed
+        self._alerts = alerts
+        self._clock = clock
+        self._last_alert: float | None = None
+        self._last_error = ""
         self._client = client
         self._storage = storage
         self._notifier = notifier
@@ -48,6 +56,7 @@ class FeedRunner:
             releases = await self._client.fetch()
         except TorznabError as error:
             logger.warning("[%s] fetch failed: %s", self.feed.name, error)
+            self._last_error = f"fetch failed: {error}"
             ok = False
         else:
             if releases is not None:
@@ -82,6 +91,7 @@ class FeedRunner:
             else:
                 self._storage.mark_failed(release_id)
                 all_sent = False
+                self._last_error = "could not announce new releases"
                 logger.warning(
                     "[%s] could not announce '%s', will retry on the next poll",
                     self.feed.name,
@@ -97,15 +107,39 @@ class FeedRunner:
             return False
         return True
 
+    async def _alert_if_needed(self, failures: int) -> None:
+        if self._alerts is None or failures < self._alerts.after_failures:
+            return
+        now = self._clock()
+        if self._last_alert is not None and now - self._last_alert < self._alerts.cooldown:
+            return
+        body = (
+            f"⚠️ **{escape_markdown(self.feed.name)}** has failed {failures} times in a row\n\n"
+            f"Last error: {escape_markdown(self._last_error)}"
+        )
+        try:
+            sent = await self._notifier.send(self._alerts.apprise_config_id, self._alerts.tag, body)
+        except Exception:
+            logger.exception("[%s] unexpected error while sending the alert", self.feed.name)
+            return
+        if sent:
+            self._last_alert = now
+            logger.info("[%s] alert sent after %d consecutive failures", self.feed.name, failures)
+        else:
+            logger.warning("[%s] could not send the alert, will retry on the next failure", self.feed.name)
+
     async def run(self) -> None:
         failures = 0
         while not self._stop.is_set():
             try:
                 ok = await self.poll()
-            except Exception:
+            except Exception as error:
                 logger.exception("[%s] unexpected error", self.feed.name)
+                self._last_error = f"unexpected error: {type(error).__name__}"
                 ok = False
             failures = 0 if ok else failures + 1
+            if not ok:
+                await self._alert_if_needed(failures)
             delay = next_delay(self.feed.interval, failures)
             if failures:
                 logger.info("[%s] next attempt in %ds", self.feed.name, delay)
@@ -129,6 +163,7 @@ async def run_all(
             config.category_map,
             config.send_delay,
             stop,
+            config.alerts,
         )
         for feed in config.feeds
     ]
